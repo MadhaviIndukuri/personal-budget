@@ -27,6 +27,10 @@
         {
             "title": "repair",
             "budget": 70
+        },
+        {
+            "title": "Gas",
+            "budget": 40
         }
     ]
 }
